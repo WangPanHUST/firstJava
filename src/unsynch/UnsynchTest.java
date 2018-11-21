@@ -1,4 +1,5 @@
 package unsynch;
+import sync.SynchBank;
 
 /**
  * @author WangPan wangpanhust@qq.com
@@ -14,7 +15,8 @@ public class UnsynchTest {
 
     public static void main(String[] args){
 
-        Bank bank = new Bank(NACCOUNTS,INITIAL_BALANCE);
+        //Bank bank = new Bank(NACCOUNTS,INITIAL_BALANCE);
+        SynchBank bank = new SynchBank(NACCOUNTS,INITIAL_BALANCE);
         for (int i = 0;i < 100;i++){
             int fromAccount = i;
             Runnable r = () -> {
