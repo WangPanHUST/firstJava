@@ -15,7 +15,6 @@
 - [chapter9](https://github.com/WangPanHUST/firstJava/tree/master/src/chapter9):集合  
 - [chapter14](https://github.com/WangPanHUST/firstJava/tree/master/src/chapter14):并发 
  
-每个模块内有各自的README
 
 ## 联系我
 
