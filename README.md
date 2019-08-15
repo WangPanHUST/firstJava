@@ -1,5 +1,5 @@
-# java学习笔记
-笔记主要是《java核心卷1》的源代码，自己手敲了一遍，其中图形界面和比较生僻的部分代码略过，java文件的名称与书中的命名一致。corejava1-ilovepdf-compressed.pdf是这本书的电子版，推荐这个网站[ilovepdf](https://www.ilovepdf.com/)，一个免费的pdf工具网站，高清版：[corejava1](https://pan.baidu.com/s/1f7sWxLlrZfXAcITtgFyXpw)，提取码：qxrs  
+# Java学习笔记
+笔记主要是《Java核心卷1》的源代码，自己手敲了一遍，其中图形界面和比较生僻的部分代码略过，Java文件的名称与书中的命名一致。corejava1-ilovepdf-compressed.pdf是这本书的电子版，推荐这个网站[ilovepdf](https://www.ilovepdf.com/)，一个免费的pdf工具网站，高清版：[corejava1](https://pan.baidu.com/s/1f7sWxLlrZfXAcITtgFyXpw)，提取码：qxrs  
 
 **如果你觉得还不错的话，请在这个仓库上点个star，谢谢支持。**
 
